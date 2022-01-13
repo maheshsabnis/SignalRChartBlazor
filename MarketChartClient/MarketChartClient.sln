@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketChartClient", "MarketChartClient.csproj", "{A31B0E66-BCE4-44E9-80EB-880FC13E5FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A31B0E66-BCE4-44E9-80EB-880FC13E5FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31B0E66-BCE4-44E9-80EB-880FC13E5FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31B0E66-BCE4-44E9-80EB-880FC13E5FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31B0E66-BCE4-44E9-80EB-880FC13E5FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC153147-D50E-4787-BFDA-677FFDF92E59}
+	EndGlobalSection
+EndGlobal

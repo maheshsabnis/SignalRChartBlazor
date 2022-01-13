@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartServer", "ChartServer\ChartServer.csproj", "{D6F63FB8-59C9-44EE-AB87-4B15D700B5D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedModels", "SharedModels\SharedModels.csproj", "{C47F936F-5AFC-4A7D-94C3-D55A1E363ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6F63FB8-59C9-44EE-AB87-4B15D700B5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F63FB8-59C9-44EE-AB87-4B15D700B5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F63FB8-59C9-44EE-AB87-4B15D700B5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F63FB8-59C9-44EE-AB87-4B15D700B5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C47F936F-5AFC-4A7D-94C3-D55A1E363ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47F936F-5AFC-4A7D-94C3-D55A1E363ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47F936F-5AFC-4A7D-94C3-D55A1E363ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47F936F-5AFC-4A7D-94C3-D55A1E363ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C00A9B6-C14D-4399-B275-08B0D79B2CED}
+	EndGlobalSection
+EndGlobal

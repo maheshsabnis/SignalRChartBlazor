@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6f63fb8-59c9-44ee-ab87-4b15d700b5d1": {
+      "ProjectGuid": "d6f63fb8-59c9-44ee-ab87-4b15d700b5d1",
+      "DisplayName": "ChartServer",
+      "ColorIndex": 0
+    },
+    "c47f936f-5afc-4a7d-94c3-d55a1e363acf": {
+      "ProjectGuid": "c47f936f-5afc-4a7d-94c3-d55a1e363acf",
+      "DisplayName": "SharedModels",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

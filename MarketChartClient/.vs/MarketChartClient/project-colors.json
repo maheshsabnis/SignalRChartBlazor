@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a31b0e66-bce4-44e9-80eb-880fc13e5fea": {
+      "ProjectGuid": "a31b0e66-bce4-44e9-80eb-880fc13e5fea",
+      "DisplayName": "MarketChartClient",
+      "ColorIndex": 0
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Script Documents",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
